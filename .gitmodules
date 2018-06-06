@@ -1,4 +1,8 @@
 [submodule "core"]
 	path = core
-	url = https://github.com/ConnectSDK/Connect-SDK-Android-Core.git
-	branch = master
+	url = https://github.com/kdgm/Connect-SDK-Android-Core.git
+	branch = kdgm
+[submodule "modules/google-cast"]
+	path = modules/google-cast
+	url = https://github.com/kdgm/Connect-SDK-Android-Google-Cast.git
+	branch = kdgm

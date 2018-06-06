@@ -67,6 +67,7 @@ android {
             java.srcDirs = [
                     'src',
                     'core/src',
+                    'modules/google-cast/src',
             ]
             resources.srcDirs = ['src']
             aidl.srcDirs = ['src']
@@ -77,6 +78,7 @@ android {
         test {
             java.srcDirs = [
                     'core/test/src',
+                    'modules/google-cast/test/src'
             ]
         }
     }
