@@ -1,3 +1,6 @@
+## Release 1.6.0-kdgm1
+- [enh] update to API 25
+
 # Connect SDK Android Changelog
 
 ## 1.6.0 -- 09 Sep 2015
